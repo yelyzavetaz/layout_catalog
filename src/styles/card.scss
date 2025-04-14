@@ -4,8 +4,8 @@
   margin: 0 auto;
   box-sizing: border-box;
   grid-template-columns: repeat(4, 200px);
-  gap: 48 46px;
-  padding: 50 40px;
+  gap: 48px 46px;
+  padding: 50px 40px;
 
   @media (max-width: 1023px) {
     grid-template-columns: repeat(3, 200px);
